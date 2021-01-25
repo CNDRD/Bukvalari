@@ -1,2 +1,2 @@
 language = "python3"
-run = "python pepega.py"
+run = "python3 pepega.py"

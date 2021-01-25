@@ -3,3 +3,5 @@
 [![Run on Repl.it](https://repl.it/badge/github/CNDRD/Bukvalari)](https://repl.it/github/CNDRD/Bukvalari)  
 
 Jednoduchý python script na vypočítání průměru známek ze všech předmětů, protože Bakaláři smrdí a nemůžou tam ten výpočet napsat rovnou 🙃  
+
+requirements.txt jsem musel přejmenovat na monke.txt protože replit je piča a odmítal se pustit..  
